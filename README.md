@@ -1,4 +1,12 @@
 ### Hi there 👋
+## 💥 Welcome to my GitHub 
+## 🔭 Here are some of my most recent projects 
+# My website 💬
+# Hues and Cues 🎡
+# Bus Tracking System 🚌
+# Sudoku Robot Solver 🦾
+# More..
+
 
 <!--
 **mirandadrummond/mirandadrummond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
