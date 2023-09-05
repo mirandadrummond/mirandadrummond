@@ -1,7 +1,7 @@
 # Hi there 👋
 ## 💥 Welcome to my GitHub 
 ## 🔭 Here are some of my most recent projects 
-### My (www.mirandadrummond.com website) 💬 
+### My [website](www.mirandadrummond.com) 💬 
 ### Hues and Cues 🎡
 ### Bus Tracking System 🚌
 ### Sudoku Robot Solver 🦾
