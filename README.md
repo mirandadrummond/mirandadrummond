@@ -12,7 +12,7 @@ _I'm a passionate developer, innovator, and lifelong learner. Here's a glimpse i
 
 ### 🔭 **Featured Projects** 🌟
 
-- **[My Personal Website](https://www.mirandadrummond.com)**: Dive deep into my journey and achievements. ![Website Screenshot](path/to/your/website/screenshot.jpg)
+- **[My Personal Website](https://www.mirandadrummond.com)**: Dive deep into my journey and achievements.
   
 - **[Hues and Cues 🎡](https://github.com/mirandadrummond/HuesAndCuesGame)**: An innovative project that... (Provide a brief description).
   
