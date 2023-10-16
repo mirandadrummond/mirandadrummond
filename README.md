@@ -2,8 +2,6 @@
 
 ![Banner Image](https://github.com/mirandadrummond/mirandadrummond/assets/117724212/fb5e66e7-d613-4a0f-93d4-d702841a2ac7)
 
-*Tip: Consider adding a banner image that represents you or your field of expertise. This could be a photo of you coding, a project you're proud of, or any creative graphics that relate to programming and tech.*
-
 ## 💥 **Welcome to my GitHub Universe!** 🌌
 
 _I'm a passionate developer, innovator, and lifelong learner. Here's a glimpse into my world of code and creativity._
