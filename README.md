@@ -1,14 +1,10 @@
-# Hello, World! 🌍 I'm Miranda Drummond 👋
+# Welcome to my GitHub!
 
-![Banner Image](https://github.com/mirandadrummond/mirandadrummond/assets/117724212/fb5e66e7-d613-4a0f-93d4-d702841a2ac7)
-
-## 💥 **Welcome to my GitHub Universe!** 🌌
-
-_I'm a passionate developer, innovator, and lifelong learner. Here's a glimpse into my world of code and creativity._
+_I'm a third year Computer Science & AI Student based in Madrid!_
 
 ---
 
-### 🔭 **Featured Projects** 🌟
+### 🌟 **Featured Projects** 🌟
 
 - **[My Personal Website](https://www.mirandadrummond.com)**: Dive deep into my journey and achievements.
   
@@ -20,18 +16,7 @@ _I'm a passionate developer, innovator, and lifelong learner. Here's a glimpse i
 
 ---
 
-### 🌱 **Currently Learning & Exploring** 🚀
-
-- Machine Learning and AI
-- Robotics & Automation (using FPGA's!)
-- Coding in C & C++
-- ... and the universe of endless possibilities!
-
----
-
-### 🤝 **Let's Collaborate** 💼
-
-I'm always on the lookout for challenging projects and great collaborations. Whether you have a question or an idea, feel free to reach out.
+### **Get in touch**
 
 **📧 Email**: [mirandadrummond2@gmail.com](mailto:mirandadrummond2@gmail.com)  
 **📱 LinkedIn**: [Miranda Drummond](https://www.linkedin.com/in/miranda-drummond/)https://www.linkedin.com/in/miranda-drummond/)
