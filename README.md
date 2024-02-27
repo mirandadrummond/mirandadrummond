@@ -1,14 +1,13 @@
-
+# Hi! I'm Miranda
 
 <br />
 
 I'm a Computer Science Student @ IE University - Madrid, Spain 🇪🇸
 
 <p align="center">
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mail@jayrajroshan1@gmail.com)](mailto:mail@mirandadrummond2@gmail.com)
   <a href="https://www.linkedin.com/in/miranda-drummond" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;
   <a href="mailto:mirandadrummond2@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a herf="mirandadrummond.com"> </a>a>
+  <a herf="mirandadrummond.com"> </a>
 </p>
 
 **About me**
@@ -28,8 +27,30 @@ I'm a Computer Science Student @ IE University - Madrid, Spain 🇪🇸
   
 - **[Sudoku Robot Solver](https://github.com/mirandadrummond/SudokuSolver)**: Automated solution to the classic puzzle. (Brief description).
 
-| <a href="https://github.com/mirandadrummond/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mirandadrummond&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Miranda's github stats" /></a>|<a href="https://github.com/mirandadrummond/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirandadrummond&layout=compact&theme=buefy&hide_border=true" /></a>|
-| ------------- | ------------- |
+## Current Projects
+
+<p align="center">
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/gabrieldeolaguibel/Economic-News-Webscraper">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabrieldeolaguibel&repo=Economic-News-Webscraper" width="380" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/gabrieldeolaguibel/Connect-4">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabrieldeolaguibel&repo=Connect-4" width="380" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</p>
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mirandadrummond&show_icons=true&theme=tokyonight" alt="GitHub Stat" width="45%" />
+</p>
 
 
 ---
