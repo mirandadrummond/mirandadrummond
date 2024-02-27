@@ -1,8 +1,15 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Miranda." src="./assets/gh-readme-header.png" /></a></p>
+
 
 <br />
 
 I'm a Computer Science Student @ IE University - Madrid, Spain 🇪🇸
+
+<p align="center">
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mail@jayrajroshan1@gmail.com)](mailto:mail@mirandadrummond2@gmail.com)
+  <a href="https://www.linkedin.com/in/miranda-drummond" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;
+  <a href="mailto:mirandadrummond2@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a herf="mirandadrummond.com"> </a>a>
+</p>
 
 **About me**
 
@@ -30,8 +37,7 @@ I'm a Computer Science Student @ IE University - Madrid, Spain 🇪🇸
 ### **Get in touch**
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miranda-drummond/)](https://www.linkedin.com/in/miranda-drummond/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mail@jayrajroshan1@gmail.com)](mailto:mail@mirandadrummond2@gmail.com)
+
 
 **🕸️ Website**: [mirandadrummond.com](https://mirandadrummond.com/))  
 
