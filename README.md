@@ -14,7 +14,7 @@ _I'm a third year Computer Science & AI Student based in Madrid_
   
 - **[Sudoku Robot Solver](https://github.com/mirandadrummond/SudokuSolver)**: Automated solution to the classic puzzle. (Brief description).
 
-- | <a href="https://github.com/mirandadrummond/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mirandadrummond&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Miranda's github stats" /></a> | <a href="https://github.com/mirandadrummond/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirandadrummond&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/mirandadrummond/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mirandadrummond&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Miranda's github stats" /></a>|<a href="https://github.com/mirandadrummond/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirandadrummond&layout=compact&theme=buefy&hide_border=true" /></a>|
 | ------------- | ------------- |
 
 
