@@ -30,7 +30,6 @@
   <img alt="Celonis" src="https://img.shields.io/badge/-Process%20Mining-3FA2C6?style=for-the-badge&logo=celonis&logoColor=white" />
   <img alt="RStudio" src="https://img.shields.io/badge/-RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img alt="BeautifulSoup" src="https://img.shields.io/badge/-Web%20Scraping-ffca28?style=for-the-badge&logo=beautifulsoup&logoColor=black" />
   <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img alt="Matplotlib" src="https://img.shields.io/badge/-Matplotlib-013E73?style=for-the-badge&logo=matplotlib&logoColor=white" />
   <img alt="ScikitLearn" src="https://img.shields.io/badge/-ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
