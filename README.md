@@ -1,6 +1,13 @@
-# Welcome to my GitHub!
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Miranda." src="./assets/gh-readme-header.png" /></a></p>
 
-_I'm a third year Computer Science & AI Student based in Madrid_
+<br />
+
+I'm a Computer Science Student @ IE University - Madrid, Spain 🇪🇸
+
+**About me**
+
+- 💼 Quantitative Developer Intern at [J.P. Morgan](https://www.jpmorgan.com/global)
+- 💼 Solutions Architect Intern at [Amazon Web Services](https://aws.amazon.com/)
 
 ---
 
@@ -25,6 +32,7 @@ _I'm a third year Computer Science & AI Student based in Madrid_
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miranda-drummond/)](https://www.linkedin.com/in/miranda-drummond/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mail@jayrajroshan1@gmail.com)](mailto:mail@mirandadrummond2@gmail.com)
+
 **🕸️ Website**: [mirandadrummond.com](https://mirandadrummond.com/))  
 
 ---
