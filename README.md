@@ -22,8 +22,9 @@ _I'm a third year Computer Science & AI Student based in Madrid_
 
 ### **Get in touch**
 
-**📧 Email**: [mirandadrummond2@gmail.com](mailto:mirandadrummond2@gmail.com)  
-**📱 LinkedIn**: [Miranda Drummond](https://www.linkedin.com/in/miranda-drummond/)  
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miranda-drummond/)](https://www.linkedin.com/in/miranda-drummond/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mail@jayrajroshan1@gmail.com)](mailto:mail@mirandadrummond2@gmail.com)
 **🕸️ Website**: [mirandadrummond.com](https://mirandadrummond.com/))  
 
 ---
