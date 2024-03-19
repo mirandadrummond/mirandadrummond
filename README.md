@@ -2,7 +2,7 @@
 
 ---
 
-<p align="center">I'm a Computer Science Student @ IE University - Madrid, Spain 🇪🇸</p>
+<p align="center">I'm a Computer Science and AI Student @ IE University - Madrid, Spain </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/miranda-drummond" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;
