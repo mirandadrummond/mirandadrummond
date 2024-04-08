@@ -68,6 +68,6 @@
 
 ---
 
-**🕸️ Website**: [mirandadrummond.com](https://mirandadrummond.com/))  
+**🕸️ Website**: [mirandadrummond.com](https://mirandadrummond.com/)  
 
 ---
