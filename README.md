@@ -15,6 +15,7 @@
 **About me**
 
 - 💼 Quantitative Developer Intern at [J.P. Morgan](https://www.jpmorgan.com/global)
+- 💼 Research Intern at [IMDEA Software Institute](https://software.imdea.org/)
 - 💼 Solutions Architect Intern at [Amazon Web Services](https://aws.amazon.com/)
 
 ---
